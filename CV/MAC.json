@@ -162,6 +162,30 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certificado Scrum Manager",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Scrum Manager",
+          "description": "Certificado de Scrum Manager oficial, realizado a través del CNTG.",
+          "image": {
+            "alt": "scrum_master.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/15/ccf74868-8f7f-4cdf-a34d-528b55cfb4d8_scrum_master.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jira",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
