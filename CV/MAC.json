@@ -119,6 +119,14 @@
         }
       ]
     },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
