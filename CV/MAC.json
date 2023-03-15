@@ -200,6 +200,16 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certificado de Inglés Advanced C1",
+        "startDate": "2021-12-01",
+        "institution": {
+          "name": "EOI A Coruña",
+          "description": "Certificado de Inglés Advanced C1 por la EOI de A Coruña."
+        }
       }
     ]
   },
