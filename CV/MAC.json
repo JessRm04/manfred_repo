@@ -11,9 +11,16 @@
       "title": "Newbie Fullstack Developer and Frontend lover",
       "description": "¡Busco mi primer empleo como desarrolladora Frontend Junior! 👩‍💻 \n\n🙋‍♀️ Si has llegado hasta aquí, antes que nada, ¡encantada de conocerte! Me presento:\n\n- Soy una mente analítica: lo bueno, si breve, dos veces bueno. \n- Soy comunicativa: lo principal es entendernos.\n- Soy resolutiva: la virtud que más han destacado en los equipos en los que he trabajado.\n- Trabajo en equipo: con autonomía, pero sin olvidar la red. Y con manejo de herramientas que lo permitan (slack, trello, café...).\n- Aprendo rápido (de verdad).\n- Me apunto a todos los saraos 💃.\n\n💖 Soy FAN de la experiencia de usuario, de las cosas claras, simples, útiles y bonitas. Por mi cuenta me he ido familiarizando con herramientas como Figma, adobe XD, photoshop, lucidchart... y librerías como Bootstrap y Tailwind.\n\n🤓 En cuanto a lenguajes y frameworks, sé sobre:\n- Frontend: HTML, CSS, javascript y react.\n- Backend: Php, Laravel, mySQL.\n\n👀 Pero también tengo interés en aprender sobre:\n- Realidad virtual y aumentada.\n- Inteligencias artificiales y NLP. \n- UX & UI.\n\n¡Ah! Y he trabajado durante muchos años en diferentes proyectos del ámbito social, con todo tipo de colectivos y de responsabilidades. Puedo arrancar un servicio desde 0, generar ideas para impulsar un proyecto, documentarlo, generar lazos entre entidades, promoverlo en redes sociales... \"todoterreno\", que dicen :) \n\n👇  Más abajo tienes enlaces a mi CV y mi github, pero para cualquier otra cosa... ¡¡Pregúntame!! 📞",
       "location": {
+        "country": "España",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jessica-rios-maneiro/"
+      }
+    ]
   },
   "knowledge": {
     "hardSkills": [
@@ -86,6 +93,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jessica-rios-maneiro/"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
