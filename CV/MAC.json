@@ -112,6 +112,20 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certificado de Diseño de Experiencia del Usuario (UX) de Google",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "Certificado de Diseño de Experiencia del Usuario (UX) de Google realizado a través de Coursera, entre diciembre de 2022 y marzo de 2023.",
+          "image": {
+            "alt": "Sin título.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/15/57563c7b-9475-4085-a85a-55dbd65eb574_sin-titulo.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Bootcamp de Desarrollo Web Fullstack",
