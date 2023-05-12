@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,15 +11,10 @@
       "title": "Newbie Fullstack Developer and Frontend lover",
       "description": "¡Busco mi primer empleo como desarrolladora Frontend Junior! 👩‍💻 \n\n🙋‍♀️ Si has llegado hasta aquí, antes que nada, ¡encantada de conocerte! Me presento:\n\n- Soy una mente analítica: lo bueno, si breve, dos veces bueno. \n- Soy comunicativa: lo principal es entendernos.\n- Soy resolutiva: la virtud que más han destacado en los equipos en los que he trabajado.\n- Trabajo en equipo: con autonomía, pero sin olvidar la red. Y con manejo de herramientas que lo permitan (slack, trello, café...).\n- Aprendo rápido (de verdad).\n- Me apunto a todos los saraos 💃.\n\n💖 Soy FAN de la experiencia de usuario, de las cosas claras, simples, útiles y bonitas. Por mi cuenta me he ido familiarizando con herramientas como Figma, adobe XD, photoshop, lucidchart... y librerías como Bootstrap y Tailwind.\n\n🤓 En cuanto a lenguajes y frameworks, sé sobre:\n- Frontend: HTML, CSS, javascript y react.\n- Backend: Php, Laravel, mySQL.\n\n👀 Pero también tengo interés en aprender sobre:\n- Realidad virtual y aumentada.\n- Inteligencias artificiales y NLP. \n- UX & UI.\n\n¡Ah! Y he trabajado durante muchos años en diferentes proyectos del ámbito social, con todo tipo de colectivos y de responsabilidades. Puedo arrancar un servicio desde 0, generar ideas para impulsar un proyecto, documentarlo, generar lazos entre entidades, promoverlo en redes sociales... \"todoterreno\", que dicen :) \n\n👇  Más abajo tienes enlaces a mi CV y mi github, pero para cualquier otra cosa... ¡¡Pregúntame!! 📞",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
         "country": "España"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jessica-rios-maneiro/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "¡¡¡ADORO LOS JUEGOS DE MESA!!!",
@@ -30,52 +25,32 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Gallego",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Italian"
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Italiano",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
+          "name": "Adobe Xd",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Xd",
           "type": "technology"
         }
       },
@@ -93,13 +68,13 @@
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Tailwind",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -108,23 +83,39 @@
           "name": "Laravel",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Certificado de Diseño de Experiencia del Usuario (UX) de Google",
-        "startDate": "2023-03-01",
-        "institution": {
-          "name": "Coursera",
-          "description": "Certificado de Diseño de Experiencia del Usuario (UX) de Google realizado a través de Coursera, entre diciembre de 2022 y marzo de 2023.",
-          "image": {
-            "alt": "Sin título.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/15/57563c7b-9475-4085-a85a-55dbd65eb574_sin-titulo.png"
-          }
-        }
-      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
@@ -134,8 +125,8 @@
           "name": "Factoría F5",
           "description": "Bootcamp de Desarrollo Web Fullstack en Factoría F5, donde trabajamos con proyectos reales desde el primer día, organizando nuestro trabajo con metodologías ágiles.",
           "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/15/e4ba1f0a-3572-43a9-8e33-ab47d6e89da3_descarga.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/15/e4ba1f0a-3572-43a9-8e33-ab47d6e89da3_descarga.png",
+            "alt": "descarga.png"
           }
         },
         "linkedCompetences": [
@@ -186,8 +177,8 @@
           "name": "Scrum Manager",
           "description": "Certificado de Scrum Manager oficial, realizado a través del CNTG.",
           "image": {
-            "alt": "scrum_master.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/15/ccf74868-8f7f-4cdf-a34d-528b55cfb4d8_scrum_master.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/15/ccf74868-8f7f-4cdf-a34d-528b55cfb4d8_scrum_master.png",
+            "alt": "scrum_master.png"
           }
         },
         "linkedCompetences": [
@@ -204,11 +195,39 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certificado de Diseño de Experiencia del Usuario (UX) de Google",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "Certificado de Diseño de Experiencia del Usuario (UX) de Google realizado a través de Coursera, entre diciembre de 2022 y marzo de 2023.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/15/57563c7b-9475-4085-a85a-55dbd65eb574_sin-titulo.png",
+            "alt": "Sin título.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Certificado de Inglés Advanced C1",
         "startDate": "2021-12-01",
         "institution": {
           "name": "EOI A Coruña",
           "description": "Certificado de Inglés Advanced C1 por la EOI de A Coruña."
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
         }
       }
     ]
@@ -217,8 +236,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jessica-rios-maneiro/"
+          "URL": "https://www.linkedin.com/in/jessica-rios-maneiro/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "jessica.riosma@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "698111865",
+          "countryCode": "+34"
         }
       ]
     },
@@ -232,6 +260,11 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría un empleo que me permita desarrollar mi carrera profesional en Frontend, en una empresa que dé importancia al UX/UI además del desarrollo. Si además trabaja con proyectos sociales o formativos y hay un buen teamwork ¡encantada!",
+    "goodPractices": "Procuro mantener clean code, abstrayendo lo máximo posible las funcionalidades y separando componentes (por ejemplo, implementando atomic design, empleando diferentes repos para frontend y backend, trato de aprender SOLID y el KISS lo aplico a mi vida en general), manteniendo un mismo estilo de escritura (por ejemplo, inglés y camelCase)...\n\nAdoro las metodologías ágiles, me he formado como scrum manager y me gustaría seguir aprendiendo sobre agile."
   }
 }
