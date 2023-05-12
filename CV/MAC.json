@@ -227,6 +227,34 @@
           "name": "EOI A Coruña",
           "description": "Certificado de Inglés Advanced C1 por la EOI de A Coruña."
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Python Data Analyst",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "NTT Foundation",
+          "description": "Bootcamp de analista de datos con Python",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/12/16777f49-a6ce-427d-be66-582a4590a0c2_9613.png",
+            "alt": "9613.T-dd7e06a3.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
