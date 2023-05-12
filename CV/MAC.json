@@ -110,6 +110,12 @@
       },
       {
         "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Tailwind",
           "type": "technology"
         }
