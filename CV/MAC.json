@@ -7,13 +7,9 @@
   "aboutMe": {
     "profile": {
       "name": "Jéssica",
-      "surnames": "Ríos",
-      "title": "Newbie Fullstack Developer and Frontend lover",
-      "description": "¡Busco mi primer empleo como desarrolladora Frontend Junior! 👩‍💻 \n\n🙋‍♀️ Si has llegado hasta aquí, antes que nada, ¡encantada de conocerte! Me presento:\n\n- Soy una mente analítica: lo bueno, si breve, dos veces bueno. \n- Soy comunicativa: lo principal es entendernos.\n- Soy resolutiva: la virtud que más han destacado en los equipos en los que he trabajado.\n- Trabajo en equipo: con autonomía, pero sin olvidar la red. Y con manejo de herramientas que lo permitan (slack, trello, café...).\n- Aprendo rápido (de verdad).\n- Me apunto a todos los saraos 💃.\n\n💖 Soy FAN de la experiencia de usuario, de las cosas claras, simples, útiles y bonitas. Por mi cuenta me he ido familiarizando con herramientas como Figma, adobe XD, photoshop, lucidchart... y librerías como Bootstrap y Tailwind.\n\n🤓 En cuanto a lenguajes y frameworks, sé sobre:\n- Frontend: HTML, CSS, javascript y react.\n- Backend: Php, Laravel, mySQL.\n\n👀 Pero también tengo interés en aprender sobre:\n- Realidad virtual y aumentada.\n- Inteligencias artificiales y NLP. \n- UX & UI.\n\n¡Ah! Y he trabajado durante muchos años en diferentes proyectos del ámbito social, con todo tipo de colectivos y de responsabilidades. Puedo arrancar un servicio desde 0, generar ideas para impulsar un proyecto, documentarlo, generar lazos entre entidades, promoverlo en redes sociales... \"todoterreno\", que dicen :) \n\n👇  Más abajo tienes enlaces a mi CV y mi github, pero para cualquier otra cosa... ¡¡Pregúntame!! 📞",
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
-        "country": "España"
-      }
+      "surnames": "Ríos Maneiro",
+      "title": "Software Developer | UX lover",
+      "description": "Además de ser entusiasta del desarrollo web y de software, mis años de experiencia en el sector social me han impulsado a desarrollar una profunda atención hacia la experiencia de las personas usuarias. \n\nMe interesa desarrollar código útil para la vida de las personas y acercar la tecnología a la ciudadanía, algo que he tratado de hacer cuando trabajaba en alfabetización digital y que continúo haciendo en mi día a día profesional como desarrolladora de software.\n\nMe apasionan los nuevos retos, el aprendizaje continuo y el mundo de la educación. Me encantaría aprender y trabajar con tecnologías que fomentan el aprendizaje, como la realidad virtual y aumentada y la inteligencia artificial, desarrollar plataformas educativas o formar a nuev@s profesionales.\n\nSi tus intereses encajan con lo aquí descrito: ¿Conectamos?"
     },
     "interestingFacts": [
       {
@@ -22,22 +18,195 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "EOS Spain"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Skills: UiPath · Jaspersoft · Oracle SQL Developer · SQL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Factoría F5"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-04-30",
+            "challenges": [
+              {
+                "description": "-Desarrollo de software fullstack: html & css, javascript, react, php, laravel.\n-Consumo de APIs\n-Bases de datos: mySQL\n-Metodologías ágiles"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FUNDACIÓN ÉRGUETE-INTEGRACION"
+        },
+        "roles": [
+          {
+            "name": "Orientadora Laboral - Agente de igualdad",
+            "startDate": "2019-10-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "- Orientación laboral e itinerarios de búsqueda de empleo. \n- Docente para la Búsqueda Activa de Empleo y la mejora de la empleabilidad.\n- Docente en Habilidades Sociales con perspectiva de género.\n- #JessiConsellos para el empleo en redes sociales (instagram, facebook y LinkedIn)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FUNDACIÓN MUJERES"
+        },
+        "roles": [
+          {
+            "name": "Técnica de Educación para el Desarrollo",
+            "startDate": "2019-09-01",
+            "finishDate": "2019-12-31",
+            "challenges": [
+              {
+                "description": "- Formadora de Educación para el Desarrollo en CEIP e IES de A Coruña, para alumnado y familias.\n- Impartición de Formación en Igualdad de Oportunidades y Coeducación.\n- Duración de inicio a fin de proyecto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "UTE Os Ventos + Axiña"
+        },
+        "roles": [
+          {
+            "name": "Educadora Social en medio abierto",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "- Prevención y educación de calle con menores en situación de riesgo.\n- Orientación educativa y laboral."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cruz Roja Espanola"
+        },
+        "roles": [
+          {
+            "name": "Operadora en Coordinación de Emergencias",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": "- Operaciones de coordinación de la central de emergencias.\n- Seguimiento y atención a los usuarios y usuarias de la Red."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "COGAMI"
+        },
+        "roles": [
+          {
+            "name": "Técnica de empleo",
+            "startDate": "2018-12-01",
+            "finishDate": "2019-01-31",
+            "challenges": [
+              {
+                "description": "- Técnica de empleo en el Servicio de Intermediación Laboral.\n- Prospección empresarial."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "COGAMI"
+        },
+        "roles": [
+          {
+            "name": "Asistenta personal",
+            "startDate": "2018-09-01",
+            "finishDate": "2018-12-31",
+            "challenges": [
+              {
+                "description": "- Asistenta personal en el Programa SAVI (Servicio de Apoyo a la Vida Indepediente).\n- Impartición de Formación en Sensibilización Sociocultural de Género.\n- Ponencia en las Jornadas COCEMFE de Asistencia Personal (Madrid)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autónomo"
+        },
+        "roles": [
+          {
+            "name": "Cuidadora de Inés (TEA)",
+            "startDate": "2017-01-01",
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FUNDACIÓN MUJERES"
+        },
+        "roles": [
+          {
+            "name": "Técnica de igualdad.",
+            "startDate": "2016-09-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "- Formación en Igualdad de Oportunidades en los módulos transversales de los cursos del Servicio Público Estatal de Empleo.\n- Creación e impartición de talleres en el programa Cuidadanas.\n- Gestión de datos."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Gallego",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Inglés",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Italiano",
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
         "level": "Limited working proficiency"
       }
     ],
