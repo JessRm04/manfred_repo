@@ -123,23 +123,6 @@
       },
       {
         "organization": {
-          "name": "Autónomo"
-        },
-        "roles": [
-          {
-            "name": "Cuidadora de Inés (TEA)",
-            "startDate": "2017-01-01",
-            "finishDate": "2019-04-30",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "FUNDACIÓN MUJERES"
         },
         "roles": [
