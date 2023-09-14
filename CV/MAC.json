@@ -195,10 +195,19 @@
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
+        "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Azure AI Fundamentals AI-900",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Microsoft Learn"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Bootcamp de Desarrollo Web Fullstack",
-        "startDate": "2023-03-01",
+        "startDate": "2022-10-01",
         "institution": {
           "name": "Factoría F5",
           "description": "Bootcamp de Desarrollo Web Fullstack en Factoría F5, donde trabajamos con proyectos reales desde el primer día, organizando nuestro trabajo con metodologías ágiles.",
@@ -207,6 +216,7 @@
             "alt": "descarga.png"
           }
         },
+        "finishDate": "2023-05-01",
         "linkedCompetences": [
           {
             "name": "Adobe Xd",
