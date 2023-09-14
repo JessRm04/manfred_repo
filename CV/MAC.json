@@ -305,7 +305,7 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Python Data Analyst",
         "startDate": "2023-03-01",
         "institution": {
@@ -316,6 +316,7 @@
             "alt": "9613.T-dd7e06a3.png"
           }
         },
+        "finishDate": "2023-07-01",
         "linkedCompetences": [
           {
             "name": "MongoDB",
