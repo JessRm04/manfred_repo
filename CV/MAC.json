@@ -379,6 +379,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
           "name": "React",
           "type": "technology"
         }
