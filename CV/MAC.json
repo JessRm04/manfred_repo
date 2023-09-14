@@ -140,23 +140,6 @@
       },
       {
         "organization": {
-          "name": "COGAMI"
-        },
-        "roles": [
-          {
-            "name": "Asistenta personal",
-            "startDate": "2018-09-01",
-            "finishDate": "2018-12-31",
-            "challenges": [
-              {
-                "description": "- Asistenta personal en el Programa SAVI (Servicio de Apoyo a la Vida Indepediente).\n- Impartición de Formación en Sensibilización Sociocultural de Género.\n- Ponencia en las Jornadas COCEMFE de Asistencia Personal (Madrid)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Autónomo"
         },
         "roles": [
