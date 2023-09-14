@@ -128,12 +128,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Adobe Xd",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bootstrap",
           "type": "technology"
         }
