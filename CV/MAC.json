@@ -378,6 +378,14 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
         "name": "Oracle",
         "type": "technology"
       },
