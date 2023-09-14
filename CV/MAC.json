@@ -295,6 +295,15 @@
         }
       },
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ciclo Superior Desarrollo Aplicaciones Web",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "IES Fernando Wirtz"
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Python Data Analyst",
@@ -387,6 +396,10 @@
       },
       {
         "name": "Oracle",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       },
       {
