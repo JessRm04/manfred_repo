@@ -8,101 +8,22 @@
     "profile": {
       "name": "Jéssica",
       "surnames": "Ríos Maneiro",
-      "title": "Software Developer | UX lover",
-      "description": "Además de ser entusiasta del desarrollo web y de software, mis años de experiencia en el sector social me han impulsado a desarrollar una profunda atención hacia la experiencia de las personas usuarias. \n\nMe interesa desarrollar código útil para la vida de las personas y acercar la tecnología a la ciudadanía, algo que he tratado de hacer cuando trabajaba en alfabetización digital y que continúo haciendo en mi día a día profesional como desarrolladora de software.\n\nMe apasionan los nuevos retos, el aprendizaje continuo y el mundo de la educación. Me encantaría aprender y trabajar con tecnologías que fomentan el aprendizaje, como la realidad virtual y aumentada y la inteligencia artificial, o desarrollar plataformas educativas. Pero de momento, estoy abierta a cualquier oportunidad que me permita seguir aprendiendo y desarrollar una carrera profesional como fullstack."
+      "title": "Software & Web Developer | Data Analyst | Oracle SQL | React | UX UI",
+      "description": "Actualmente trabajo en el departamento tecnológico una empresa financiera internacional, apoyando la migración de las plataformas habituales a un nuevo sistema basado en microservicios para la gestión de deudas.\n\nDoy soporte tanto en la configuración de la herramienta como en la elaboración de informes mediante el manejo general de las bases de datos. Las principales tecnologías que empleo son Oracle SQL, excel y jaspersoft.\n\nGracias a este proyecto mejoro diariamente mi capacidad para trabajar con grandes volúmenes de datos a la vez que mis habilidades analíticas, de resolución de problemas, trabajo en equipo y dominio del inglés, ya que mi día a día se desarrolla en gran medida en este idioma.\n\nParalelamente, estudio el ciclo superior de DAW para potenciar mis conocimientos en el desarrollo de frontend. También estoy aprendiendo BPMN y automatización de procesos con RPA.\n\nEn mi futuro profesional me gustaría formar parte de proyectos dinámicos en entornos cambiantes, pues los nuevos retos son lo que me motiva a dar lo mejor de mí en un puesto de trabajo. También trabajar con tecnologías frontend como React y apoyar en UX/UI.\n\nSoy proactiva, resolutiva, entregada, asertiva y trabajo bien en equipo.\n\n¿Conectamos? :)",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/950da9c1-150b-4d6e-8cd8-7fa7cbf5bf9c_linkedin-photo-24530.linkedin-photo-24530",
+        "alt": "24/02/08/950da9c1-150b-4d6e-8cd8-7fa7cbf5bf9c_linkedin-photo-24530.linkedin-photo-24530"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJGQVeRvRfLg0RIMrJc4L1BAM)",
+        "country": "España",
+        "region": "Galicia"
+      }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jessica-rios-maneiro/"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "EOS Spain"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2023-06-01",
-            "challenges": [
-              {
-                "description": "Skills: UiPath · Jaspersoft · Oracle SQL Developer · SQL"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Factoría F5"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-10-01",
-            "finishDate": "2023-04-30",
-            "challenges": [
-              {
-                "description": "-Desarrollo de software fullstack: html & css, javascript, react, php, laravel.\n-Consumo de APIs\n-Bases de datos: mySQL\n-Metodologías ágiles"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "FUNDACIÓN ÉRGUETE-INTEGRACION"
-        },
-        "roles": [
-          {
-            "name": "Orientadora Laboral - Agente de igualdad",
-            "startDate": "2019-10-01",
-            "finishDate": "2022-09-30",
-            "challenges": [
-              {
-                "description": "- Orientación laboral e itinerarios de búsqueda de empleo. \n- Docente para la Búsqueda Activa de Empleo y la mejora de la empleabilidad.\n- Docente en Habilidades Sociales con perspectiva de género.\n- #JessiConsellos para el empleo en redes sociales (instagram, facebook y LinkedIn)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "COGAMI"
-        },
-        "roles": [
-          {
-            "name": "Técnica de empleo",
-            "startDate": "2018-12-01",
-            "finishDate": "2019-01-31",
-            "challenges": [
-              {
-                "description": "- Técnica de empleo en el Servicio de Intermediación Laboral.\n- Prospección empresarial."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "FUNDACIÓN MUJERES"
-        },
-        "roles": [
-          {
-            "name": "Técnica de igualdad.",
-            "startDate": "2016-09-01",
-            "finishDate": "2016-12-31",
-            "challenges": [
-              {
-                "description": "- Formación en Igualdad de Oportunidades en los módulos transversales de los cursos del Servicio Público Estatal de Empleo.\n- Creación e impartición de talleres en el programa Cuidadanas.\n- Gestión de datos."
-              }
-            ]
-          }
-        ]
+        "URL": "https://linkedin.com/in/jessica-rios-maneiro"
       }
     ]
   },
@@ -208,7 +129,7 @@
         }
       },
       {
-        "studyType": "officialDegree",
+        "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Bootcamp de Desarrollo Web Fullstack",
         "startDate": "2022-10-01",
@@ -372,18 +293,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/jessica-rios-maneiro/",
+          "URL": "https://linkedin.com/in/jessica-rios-maneiro",
           "type": "linkedin"
         }
       ],
       "contactMails": [
         "jessica.riosma@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "698111865",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
