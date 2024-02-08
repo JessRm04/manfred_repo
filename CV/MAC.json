@@ -11,8 +11,8 @@
       "title": "Software & Web Developer | Data Analyst | Oracle SQL | React | UX UI",
       "description": "Actualmente trabajo en el departamento tecnológico una empresa financiera internacional, apoyando la migración de las plataformas habituales a un nuevo sistema basado en microservicios para la gestión de deudas.\n\nDoy soporte tanto en la configuración de la herramienta como en la elaboración de informes mediante el manejo general de las bases de datos. Las principales tecnologías que empleo son Oracle SQL, excel y jaspersoft.\n\nGracias a este proyecto mejoro diariamente mi capacidad para trabajar con grandes volúmenes de datos a la vez que mis habilidades analíticas, de resolución de problemas, trabajo en equipo y dominio del inglés, ya que mi día a día se desarrolla en gran medida en este idioma.\n\nParalelamente, estudio el ciclo superior de DAW para potenciar mis conocimientos en el desarrollo de frontend. También estoy aprendiendo BPMN y automatización de procesos con RPA.\n\nEn mi futuro profesional me gustaría formar parte de proyectos dinámicos en entornos cambiantes, pues los nuevos retos son lo que me motiva a dar lo mejor de mí en un puesto de trabajo. También trabajar con tecnologías frontend como React y apoyar en UX/UI.\n\nSoy proactiva, resolutiva, entregada, asertiva y trabajo bien en equipo.\n\n¿Conectamos? :)",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/1c0a032b-5932-4b61-9bdd-368ea03d5e6c_linkedin-photo-24530.linkedin-photo-24530",
-        "alt": "24/02/08/1c0a032b-5932-4b61-9bdd-368ea03d5e6c_linkedin-photo-24530.linkedin-photo-24530"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/acba8ad3-0054-4f4d-a60c-7355cb0780a8_linkedin-photo-24530.linkedin-photo-24530",
+        "alt": "24/02/08/acba8ad3-0054-4f4d-a60c-7355cb0780a8_linkedin-photo-24530.linkedin-photo-24530"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJGQVeRvRfLg0RIMrJc4L1BAM)",
@@ -24,6 +24,198 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/jessica-rios-maneiro"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "EOS Spain",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/bcfebdd1-1c41-46f2-8fb1-4c4065fbcda2_linkedin-photo-24530.linkedin-photo-24530",
+            "alt": "24/02/08/bcfebdd1-1c41-46f2-8fb1-4c4065fbcda2_linkedin-photo-24530.linkedin-photo-24530"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Mano a mano con un equipo internacional, doy soporte a la migración de la plataforma de trabajo de la empresa para la gestión de deudas.\nBrindo asistencia directa a los usuarios de la plataforma.\nExtraigo grandes cantidades de datos en BBDD para la elaboración de informes, envío de comunicados a deudores, gestión interna...\n\nTrabajo en: ES | EN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Factoría F5",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/e2860bef-25e3-4599-94b8-bffc176e6393_linkedin-photo-24530.linkedin-photo-24530",
+            "alt": "24/02/08/e2860bef-25e3-4599-94b8-bffc176e6393_linkedin-photo-24530.linkedin-photo-24530"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-04-30",
+            "challenges": [
+              {
+                "description": "-Desarrollo de software fullstack: html & css, javascript, react, php, laravel.\n-Consumo de APIs\n-Bases de datos: mySQL\n-Metodologías ágiles"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FUNDACIÓN ÉRGUETE-INTEGRACION",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/b657422c-7238-452c-9e18-dec18acd7391_linkedin-photo-24530.linkedin-photo-24530",
+            "alt": "24/02/08/b657422c-7238-452c-9e18-dec18acd7391_linkedin-photo-24530.linkedin-photo-24530"
+          }
+        },
+        "roles": [
+          {
+            "name": "Orientadora Laboral - Agente de igualdad",
+            "startDate": "2019-10-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "- Arranque del programa, captación de usuari@s y entidades colaboradoras de trabajo en red.\n- Orientación laboral e itinerarios de búsqueda de empleo.\n- Docente para la Búsqueda Activa de Empleo y la mejora de la empleabilidad.\n- Docente en Habilidades Sociales con perspectiva de género.\n- #JessiConsellos para el empleo en redes sociales (instagram, facebook y LinkedIn)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FUNDACIÓN MUJERES",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/9f9067cf-7c21-41a1-95b9-b95134448e23_linkedin-photo-24530.linkedin-photo-24530",
+            "alt": "24/02/08/9f9067cf-7c21-41a1-95b9-b95134448e23_linkedin-photo-24530.linkedin-photo-24530"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnica de Educación para el Desarrollo",
+            "startDate": "2019-09-01",
+            "finishDate": "2019-12-31",
+            "challenges": [
+              {
+                "description": "- Formadora de Educación para el Desarrollo en CEIP e IES de A Coruña, para alumnado y familias.\n- Impartición de Formación en Igualdad de Oportunidades y Coeducación.\n- Duración de inicio a fin de proyecto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "UTE Os Ventos + Axiña"
+        },
+        "roles": [
+          {
+            "name": "Educadora Social en medio abierto",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "- Prevención y educación de calle con menores en situación de riesgo.\n- Orientación educativa y laboral."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cruz Roja Espanola",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/d2952c85-df60-4660-8da4-60b4e0f063e8_linkedin-photo-24530.linkedin-photo-24530",
+            "alt": "24/02/08/d2952c85-df60-4660-8da4-60b4e0f063e8_linkedin-photo-24530.linkedin-photo-24530"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operadora en Coordinación de Emergencias",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": "- Operaciones de coordinación de la central de emergencias.\n- Seguimiento y atención a los usuarios y usuarias de la Red."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "COGAMI"
+        },
+        "roles": [
+          {
+            "name": "Técnica de empleo",
+            "startDate": "2018-12-01",
+            "finishDate": "2019-01-31",
+            "challenges": [
+              {
+                "description": "- Técnica de empleo en el Servicio de Intermediación Laboral.\n- Prospección empresarial."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "COGAMI"
+        },
+        "roles": [
+          {
+            "name": "Asistenta personal",
+            "startDate": "2018-09-01",
+            "finishDate": "2018-12-31",
+            "challenges": [
+              {
+                "description": "- Asistenta personal en el Programa SAVI (Servicio de Apoyo a la Vida Indepediente).\n- Impartición de Formación en Sensibilización Sociocultural de Género.\n- Ponencia en las Jornadas COCEMFE de Asistencia Personal (Madrid)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autónomo"
+        },
+        "roles": [
+          {
+            "name": "Cuidadora de Inés (TEA)",
+            "startDate": "2017-01-01",
+            "finishDate": "2019-04-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FUNDACIÓN MUJERES",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/18d9c9fb-587d-4006-bacb-59dee21bc3d1_linkedin-photo-24530.linkedin-photo-24530",
+            "alt": "24/02/08/18d9c9fb-587d-4006-bacb-59dee21bc3d1_linkedin-photo-24530.linkedin-photo-24530"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnica de igualdad.",
+            "startDate": "2016-09-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "- Formación en Igualdad de Oportunidades en los módulos transversales de los cursos del Servicio Público Estatal de Empleo.\n- Creación e impartición de talleres en el programa Cuidadanas.\n- Gestión de datos."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
